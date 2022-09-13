@@ -1,4 +1,6 @@
 body{
+    margin: 0%;
+    background-color: black;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -7,9 +9,7 @@ body{
     background-image: url(image/section1.svg);
     position: absolute;
     width: 1360px;
-    height: 657px;
-    left: 0px;
-    top: 0px
+    height: 757px;
     
 }
 .shado{
@@ -115,4 +115,86 @@ width: 1102px;
 height: 43.01px;
 left: 169px;
 top: 34px;
+  }
+
+  .max{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 15px;
+line-height: 22px;
+text-transform: uppercase;
+color: #FFFFFF;
+
+position: absolute;
+width: 353px;
+height: 69px;
+left: 260px;
+top: 529px;
+  }
+
+  /*Second Section*/
+
+  .medel{
+    width: 1360px;
+    height: 159px;
+    background-color: #051926;
+    position: absolute;
+    top: 737px;
+  }
+  .same{
+    float: left;
+    text-align: center;
+    margin: 1% 0% 0% 13%;
+  }
+  .sobH{
+    color: white;
+  }
+  
+  #body-img {
+    position: relative;
+    top: 918px;
+    background-image: url(image/allnft.svg);
+    background-size: cover;
+    width: 1360px;
+    height: 432.45px;
+}
+  #connect{
+    position: absolute;
+width: 239px;
+height: 239px;
+left: 134px;
+top: 1439px;
+
+  }
+
+  #connect2{
+    position: absolute;
+    width: 424px;
+    height: 424px;
+    left: 900px;
+    top: 1200px;
+  }
+
+  #connect3{
+    position: absolute;
+width: 919px;
+height: 96px;
+left: 260px;
+top: 1556px;
+  }
+  #how{
+    position: absolute;
+width: 920px;
+height: 348px;
+left: 260px;
+top: 1752px;
+  }
+
+  #how2{
+    position: absolute;
+width: 920px;
+height: 420px;
+left: 260px;
+top: 2200px;
   }
